@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Lesson1</string>
+    <string name="switch_compat">Switch</string>
+    <string name="switch_on_off">turn on/off</string>
+    <string name="plain_text_input">plain_text_input</string>
+    <string name="meat">Burger</string>
+    <string name="cheese">Pizza</string>
+    <string name="coffe">Coffee</string>
 </resources>
